@@ -1,0 +1,235 @@
+
+body {
+    background-color: #404040;
+}
+
+
+main
+{
+    max-width:1100px;
+    margin: auto;
+    width:70vw;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color:#000000;
+    position:absolute;
+    left:20vw;
+    display:flex;
+    align-items:stretch;
+
+
+}
+
+#triangle-image
+{
+    margin:0;
+    max-width:1100px;
+    width:70vw;
+    position:absolute;
+
+}
+
+
+#image-triangle-id
+{
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+#fig-photo-info-perso
+{
+    margin:unset;
+}
+
+#photo-informations
+{
+    position: relative;
+    z-index:2;
+    padding:0;
+}
+
+#info-perso
+{
+    margin: auto;
+    width: 100%;
+    text-align:right;
+    line-height:0.8em;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+
+}
+
+#nom-prenom
+{
+    color:#2388c4;
+    font-weight: 800;
+    letter-spacing: 4px;
+}
+
+#linkedin
+{
+    color:#2388c4;
+    font-weight: 400;
+    letter-spacing: 7px;
+    text-decoration: none;
+}
+
+
+
+#linkedin-img
+{
+    padding-right:0.5%;
+    vertical-align: middle;
+    height: 17px;
+}
+
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: right;
+    color:#FFFFFF;
+    letter-spacing: 0.5px;
+    font-size:200%;
+    padding-bottom:145px;
+    padding-top:10px;
+    padding-left:130px;
+    margin-top:5px;
+    position: relative;
+    z-index:2;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color:#2388c4;
+    letter-spacing: 2px;
+    font-size:1.4em;
+    border-bottom: 4px solid #dfe0e0;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    font-size:1em;
+    padding-top:60px;
+}
+
+h4, h5
+{
+    line-height: 1em;
+
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 0.8em;
+    margin-bottom: 0.6em;
+    margin-top:0.6em;
+}
+
+h5 {
+    margin-top:0.8em;
+}
+#photo-id
+{
+    width:100%;
+    height: auto;
+    min-widht:150px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#arrow-1, #arrow-2, #arrow-3, #arrow-4, #arrow-5, #arrow-6, #arrow-7, #arrow-8
+{
+    display: inline;
+}
+
+.show-and-hide
+{
+    display:none;
+}
+
+
+
+.texte-en-bleu
+{
+    color:#2388c4;
+}
+
+.texte-en-vert
+{
+    color: #6adde6;
+}
+
+
+#colonne-droite
+{
+    float:left;
+    text-align: justify;
+    text-justify: inter-word;
+    width: 65%;
+    background-color: #ffffff;
+    margin:0px;
+    padding:1%;
+    padding-right: 5%;
+    font-size:0.85em;
+    line-height:1.7em;
+
+}
+
+#colonne-gauche
+{
+    float:left;
+    font-family: 'Montserrat', sans-serif;
+    width: 25%;
+    background-color: #dfe0e0;
+    padding:3%;
+    margin:0;
+    color: #263547;
+    padding-top:70px;
+    list-style-type: none;
+}
+
+
+
+ul #competences-interets {
+    list-style-type: none;
+}
+
+
+
+#niveau-langues
+{
+    position:relative;
+    left:100px;
+    top:-123px;
+    list-style-image: url('sqpurple.gif');
+}
+
+#html-image
+{
+    margin: 0;
+    max-width: 50px;
+    width: 10vw;
+
+}
+#css-image
+{
+    margin:  0;
+    max-width: 50px;
+    width: 10vw;
+}
+
+#php-image
+{
+    margin: 5% 0;
+    max-width: 50px;
+    width: 10vw;
+}
